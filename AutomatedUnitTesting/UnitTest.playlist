@@ -1,0 +1,4 @@
+<Playlist Version="1.0">
+	<Add Test="AutomatedUnitTesting.Test.InitTest.DbExistsTest" />
+	<Add Test="AutomatedUnitTesting.Test.StoreTest.AddStoreTest" />
+</Playlist>
